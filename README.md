@@ -25,13 +25,20 @@ This project implements an end-to-end data pipeline for analyzing transactions f
 
 ## Getting Started
 
-1. Clone the repository:
+### Step 1: Clone the Repository
+Begin by cloning the repository to your local machine using the following command:
 
-   ```bash
-   git clone https://github.com/HemantDeshmukh026/Airflow-Data-Pipeline-of-Online-Retail-Transactional-Dataset.git
+```bash
+git clone https://github.com/HemantDeshmukh026/Airflow-Data-Pipeline-of-Online-Retail-Transactional-Dataset.git
+```
 
-2. Set up your Airflow environment and dependencies.
+### Step 2: Set Up Your Airflow Environment
+Configure your Airflow environment and ensure that all dependencies are set up appropriately. This step is crucial for the smooth execution of the data pipeline.
 
-3. Configure the necessary credentials for BigQuery an other services.
+### Step 3: Configure Necessary Credentials
+To guarantee seamless functionality, it is essential to configure the required credentials for Google BigQuery and any other services involved in the project.
 
-4. Run the Airflow DAG to initiate the data pipeline:
+### Step 4: Run the Airflow DAG
+Initiate the data pipeline by running the Airflow Directed Acyclic Graph (DAG). This action kickstarts the process, allowing you to explore and analyze the extensive dataset effectively.
+
+Congratulations! You are now ready to embark on your journey with the Airflow Data Pipeline for UK Online Retail Analytics. Explore the vast realm of transactional data and uncover valuable insights from 01/12/2010 to 09/12/2011.
